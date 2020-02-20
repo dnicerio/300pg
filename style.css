@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i&display=swap');
+
 html {
 	font-size: 10px;
 }
 
 body {
-	font-family: "helvetica";
+	font-family: 'Poppins', sans-serif;
 	font-size: 1.6rem;
 	line-height: 1.5;
 	text-align: center;
